@@ -24,3 +24,10 @@ I'm Jagruti , a Software Engineer with experience in developing and delivering c
 - System Design
 - Git
   
+
+## 📬 Articles
+
+- [System Design – Design Google Calendar](https://www.geeksforgeeks.org/system-design-design-google-calendar/)
+- [New Girl in the City](https://www.your-blog.com/new-girl)
+- 
+- Visitors Profile Views
