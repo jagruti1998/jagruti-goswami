@@ -24,7 +24,7 @@ and problem-solving into beautiful and functional creations.💻🔮
 - [SpringDataJpaProject](https://github.com/jagruti1998/SpringDataJpaProject.git)
 - [Emp_System_Boot](https://github.com/jagruti1998/Emp_System_Boot.git)
 - [spja-debtor-maintenance](https://github.com/jagruti1998/spja-debtor-maintenance.git)
-- [SongPlayListApp](SongPlayListApp)
+- [SongPlayListApp](https://github.com/jagruti1998/SongPlayListApp)
 
 ## 📬 Articles
 
