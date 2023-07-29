@@ -21,9 +21,8 @@ and problem-solving into beautiful and functional creations.💻🔮
 
 ## 💻 Projects
 
-- [SpringDataJpaProject](https://github.com/jagruti1998/SpringDataJpaProject.git)
-- [Emp_System_Boot](https://github.com/jagruti1998/Emp_System_Boot.git)
-- [spja-debtor-maintenance](https://github.com/jagruti1998/spja-debtor-maintenance.git)
+- [Blog REST API](https://github.com/jagruti1998/Blog-REST-API)
+- [Spring Boot REST API](https://github.com/jagruti1998/springboot-rest-api)
 - [SongPlayListApp](https://github.com/jagruti1998/SongPlayListApp)
 
 ## 📬 Articles
