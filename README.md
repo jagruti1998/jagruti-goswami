@@ -25,6 +25,7 @@ and problem-solving into beautiful and functional creations.💻🔮
 - [Spring Boot REST API](https://github.com/jagruti1998/springboot-rest-api)
 - [SongPlayListApp](https://github.com/jagruti1998/SongPlayListApp)
 - [ToDo Application](https://github.com/jagruti1998/Todo_Application)
+- [Employee System](https://github.com/jagruti1998/Emp_System)
 
 ## 📬 Articles
 
