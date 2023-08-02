@@ -27,7 +27,7 @@ and problem-solving into beautiful and functional creations.💻🔮
 - [ToDo Application](https://github.com/jagruti1998/Todo_Application)
 - [Employee System](https://github.com/jagruti1998/Emp_System)
 
-## 📬 Articles
+## 📝 Articles
 
 - [System Design – Design Google Calendar](https://www.geeksforgeeks.org/system-design-design-google-calendar/)
 - [Kuberneters – Difference Between Replicaset and Replication Controller](https://www.geeksforgeeks.org/kuberneters-difference-between-replicaset-and-replication-controller/)
