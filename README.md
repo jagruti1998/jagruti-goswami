@@ -9,9 +9,9 @@ and problem-solving into beautiful and functional creations.💻🔮
 - Java
 - Spring Boot
 - OOP
-- Microservices
 - SQL
 - Spring
+- Hibernate
 - HTML5
 - CSS3
 - Data Structures
