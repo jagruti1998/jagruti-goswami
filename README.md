@@ -26,6 +26,7 @@ and problem-solving into beautiful and functional creations.💻🔮
 - [SongPlayListApp](https://github.com/jagruti1998/SongPlayListApp)
 - [ToDo Application](https://github.com/jagruti1998/Todo_Application)
 - [Employee System](https://github.com/jagruti1998/Emp_System)
+- [Debtor Maintenance](https://github.com/jagruti1998/SpringDataJpaProject)
 
 ## 📝 Articles
 
