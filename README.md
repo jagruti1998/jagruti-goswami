@@ -17,6 +17,7 @@ and problem-solving into beautiful and functional creations.💻🔮
 - Data Structures
 - System Design
 - Git
+- PostMan
 
 
 ## 💻 Projects
