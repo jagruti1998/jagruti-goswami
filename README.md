@@ -32,5 +32,8 @@ and problem-solving into beautiful and functional creations.💻🔮
 ## 📝 Articles
 
 - [System Design – Design Google Calendar](https://www.geeksforgeeks.org/system-design-design-google-calendar/)
+- [Server Sent Events in Spring](https://www.geeksforgeeks.org/server-sent-events-in-spring/)
+- [How to design ER Diagrams for inventory and warehouse management](https://www.geeksforgeeks.org/how-to-design-er-diagrams-for-inventory-and-warehouse-management/)
+- [HTTP Status Codes](https://www.geeksforgeeks.org/jsp-http-status-codes/)
 - [Kuberneters – Difference Between Replicaset and Replication Controller](https://www.geeksforgeeks.org/kuberneters-difference-between-replicaset-and-replication-controller/)
 - [Cryptographic Consensus Mechanisms in Blockchain](https://www.geeksforgeeks.org/cryptographic-consensus-mechanisms-in-blockchain/)
